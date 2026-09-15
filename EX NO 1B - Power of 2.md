@@ -25,7 +25,7 @@ If the result is 0, then n is a power of two; otherwise, it is not.
 ## Program:
 ```
 /*
-Program to implement Reverse a String
+Program to implement power of 2
 Developed by: Rahul V
 Register Number:  212223040163
 */
