@@ -25,7 +25,7 @@ End loop and stop the program.
 ## Program:
 ```
 /*
-Program to implement Reverse a String
+Program to print all numbers
 Developed by: Rahul V
 Register Number:  212223040163
 */
