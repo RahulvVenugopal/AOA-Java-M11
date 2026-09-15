@@ -30,7 +30,7 @@ If true, increment count by 1.
 ## Program:
 ```
 /*
-Program to implement Reverse a String
+Program to implement valid pairs
 Developed by: Rahul V
 Register Number:  212223040163
 */
